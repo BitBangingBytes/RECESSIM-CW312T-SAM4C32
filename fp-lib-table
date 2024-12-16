@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RECESSIM-CW312T-SAM4C32")(type "KiCad")(uri "${KIPRJMOD}/RECESSIM-CW312T-SAM4C32.pretty")(options "")(descr ""))
+)

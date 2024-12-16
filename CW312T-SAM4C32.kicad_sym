@@ -51,8 +51,8 @@
 		)
 		(symbol "ATSAM4C32C_0_0"
 			(pin bidirectional line
-				(at 63.5 50.8 180)
-				(length 2.54)
+				(at 66.04 50.8 180)
+				(length 5.08)
 				(name "PB6"
 					(effects
 						(font
@@ -69,8 +69,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 5.08 180)
-				(length 2.54)
+				(at 66.04 5.08 180)
+				(length 5.08)
 				(name "PB24"
 					(effects
 						(font
@@ -87,8 +87,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -31.75 64.77 270)
-				(length 2.54)
+				(at -31.75 67.31 270)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -105,8 +105,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -7.62 180)
-				(length 2.54)
+				(at 66.04 -7.62 180)
+				(length 5.08)
 				(name "PB29"
 					(effects
 						(font
@@ -123,8 +123,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 43.18 180)
-				(length 2.54)
+				(at 66.04 43.18 180)
+				(length 5.08)
 				(name "PB9"
 					(effects
 						(font
@@ -141,8 +141,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 40.64 180)
-				(length 2.54)
+				(at 66.04 40.64 180)
+				(length 5.08)
 				(name "PB10"
 					(effects
 						(font
@@ -159,8 +159,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 38.1 180)
-				(length 2.54)
+				(at 66.04 38.1 180)
+				(length 5.08)
 				(name "PB11"
 					(effects
 						(font
@@ -177,8 +177,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 35.56 180)
-				(length 2.54)
+				(at 66.04 35.56 180)
+				(length 5.08)
 				(name "PB12"
 					(effects
 						(font
@@ -195,8 +195,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 30.48 180)
-				(length 2.54)
+				(at 66.04 30.48 180)
+				(length 5.08)
 				(name "PB14"
 					(effects
 						(font
@@ -213,8 +213,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 27.94 180)
-				(length 2.54)
+				(at 66.04 27.94 180)
+				(length 5.08)
 				(name "PB15"
 					(effects
 						(font
@@ -231,8 +231,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 29.21 64.77 270)
-				(length 2.54)
+				(at 29.21 67.31 270)
+				(length 5.08)
 				(name "PA26/PGMD14"
 					(effects
 						(font
@@ -249,8 +249,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 48.26 180)
-				(length 2.54)
+				(at 66.04 48.26 180)
+				(length 5.08)
 				(name "PB7"
 					(effects
 						(font
@@ -267,8 +267,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 26.67 64.77 270)
-				(length 2.54)
+				(at 26.67 67.31 270)
+				(length 5.08)
 				(name "PA25/PGMD13"
 					(effects
 						(font
@@ -285,8 +285,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 24.13 64.77 270)
-				(length 2.54)
+				(at 24.13 67.31 270)
+				(length 5.08)
 				(name "PA24/PGMD12"
 					(effects
 						(font
@@ -303,8 +303,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 64.77 270)
-				(length 2.54)
+				(at 13.97 67.31 270)
+				(length 5.08)
 				(name "PA20/PGMD8"
 					(effects
 						(font
@@ -321,8 +321,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 64.77 270)
-				(length 2.54)
+				(at 11.43 67.31 270)
+				(length 5.08)
 				(name "PA19/PGMD7"
 					(effects
 						(font
@@ -339,8 +339,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 8.89 64.77 270)
-				(length 2.54)
+				(at 8.89 67.31 270)
+				(length 5.08)
 				(name "PA18/PGMD6"
 					(effects
 						(font
@@ -357,8 +357,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -16.51 64.77 270)
-				(length 2.54)
+				(at -16.51 67.31 270)
+				(length 5.08)
 				(name "PA8/PGMM0"
 					(effects
 						(font
@@ -375,8 +375,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -21.59 0)
-				(length 2.54)
+				(at -66.04 -21.59 0)
+				(length 5.08)
 				(name "TDI/PB0"
 					(effects
 						(font
@@ -393,8 +393,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -29.21 0)
-				(length 2.54)
+				(at -66.04 -29.21 0)
+				(length 5.08)
 				(name "TCK/SWCLK/PB3"
 					(effects
 						(font
@@ -411,8 +411,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -26.67 0)
-				(length 2.54)
+				(at -66.04 -26.67 0)
+				(length 5.08)
 				(name "TMS/SDWIO/PB2"
 					(effects
 						(font
@@ -429,8 +429,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -8.89 0)
-				(length 2.54)
+				(at -66.04 -8.89 0)
+				(length 5.08)
 				(name "ERASE/PC9"
 					(effects
 						(font
@@ -447,8 +447,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 20.32 180)
-				(length 2.54)
+				(at 66.04 20.32 180)
+				(length 5.08)
 				(name "PB18"
 					(effects
 						(font
@@ -465,8 +465,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -24.13 0)
-				(length 2.54)
+				(at -66.04 -24.13 0)
+				(length 5.08)
 				(name "TDO/TRACESWO/PB1/RTCOUT0"
 					(effects
 						(font
@@ -483,8 +483,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -24.13 180)
-				(length 2.54)
+				(at 66.04 -24.13 180)
+				(length 5.08)
 				(name "PC1"
 					(effects
 						(font
@@ -501,8 +501,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -36.83 180)
-				(length 2.54)
+				(at 66.04 -36.83 180)
+				(length 5.08)
 				(name "PC6"
 					(effects
 						(font
@@ -519,8 +519,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 26.67 -59.69 90)
-				(length 2.54)
+				(at 26.67 -62.23 90)
+				(length 5.08)
 				(name "VDDBU"
 					(effects
 						(font
@@ -537,8 +537,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -13.97 0)
-				(length 2.54)
+				(at -66.04 -13.97 0)
+				(length 5.08)
 				(name "FWUP"
 					(effects
 						(font
@@ -555,8 +555,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 -3.81 0)
-				(length 2.54)
+				(at -66.04 -3.81 0)
+				(length 5.08)
 				(name "JTAGSEL"
 					(effects
 						(font
@@ -573,8 +573,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 1.27 0)
-				(length 2.54)
+				(at -66.04 1.27 0)
+				(length 5.08)
 				(name "SHDN"
 					(effects
 						(font
@@ -591,8 +591,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 11.43 0)
-				(length 2.54)
+				(at -66.04 11.43 0)
+				(length 5.08)
 				(name "TST"
 					(effects
 						(font
@@ -609,8 +609,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 6.35 0)
-				(length 2.54)
+				(at -66.04 6.35 0)
+				(length 5.08)
 				(name "WKUP0/TMP0"
 					(effects
 						(font
@@ -627,8 +627,8 @@
 				)
 			)
 			(pin input line
-				(at -63.5 30.48 0)
-				(length 2.54)
+				(at -66.04 30.48 0)
+				(length 5.08)
 				(name "XIN32"
 					(effects
 						(font
@@ -645,8 +645,8 @@
 				)
 			)
 			(pin output line
-				(at -63.5 27.94 0)
-				(length 2.54)
+				(at -66.04 27.94 0)
+				(length 5.08)
 				(name "XOUT32"
 					(effects
 						(font
@@ -663,8 +663,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 55.88 180)
-				(length 2.54)
+				(at 66.04 55.88 180)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -681,8 +681,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 53.34 180)
-				(length 2.54)
+				(at 66.04 53.34 180)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -699,8 +699,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -39.37 180)
-				(length 2.54)
+				(at 66.04 -39.37 180)
+				(length 5.08)
 				(name "PC7"
 					(effects
 						(font
@@ -717,8 +717,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -21.59 180)
-				(length 2.54)
+				(at 66.04 -21.59 180)
+				(length 5.08)
 				(name "PC0"
 					(effects
 						(font
@@ -735,8 +735,8 @@
 				)
 			)
 			(pin input line
-				(at -63.5 16.51 0)
-				(length 2.54)
+				(at -66.04 16.51 0)
+				(length 5.08)
 				(name "NRST"
 					(effects
 						(font
@@ -753,8 +753,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 17.78 180)
-				(length 2.54)
+				(at 66.04 17.78 180)
+				(length 5.08)
 				(name "PB19"
 					(effects
 						(font
@@ -771,8 +771,8 @@
 				)
 			)
 			(pin power_in line
-				(at -8.89 -59.69 90)
-				(length 2.54)
+				(at -8.89 -62.23 90)
+				(length 5.08)
 				(name "VDDPLL"
 					(effects
 						(font
@@ -789,8 +789,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -41.91 180)
-				(length 2.54)
+				(at 66.04 -41.91 180)
+				(length 5.08)
 				(name "PC8"
 					(effects
 						(font
@@ -807,8 +807,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -34.29 180)
-				(length 2.54)
+				(at 66.04 -34.29 180)
+				(length 5.08)
 				(name "PC5"
 					(effects
 						(font
@@ -825,8 +825,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -31.75 180)
-				(length 2.54)
+				(at 66.04 -31.75 180)
+				(length 5.08)
 				(name "PC4"
 					(effects
 						(font
@@ -843,8 +843,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -29.21 180)
-				(length 2.54)
+				(at 66.04 -29.21 180)
+				(length 5.08)
 				(name "PC3"
 					(effects
 						(font
@@ -861,8 +861,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -26.67 180)
-				(length 2.54)
+				(at 66.04 -26.67 180)
+				(length 5.08)
 				(name "PC2"
 					(effects
 						(font
@@ -879,8 +879,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 36.83 64.77 270)
-				(length 2.54)
+				(at 36.83 67.31 270)
+				(length 5.08)
 				(name "PA29"
 					(effects
 						(font
@@ -897,8 +897,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 45.72 180)
-				(length 2.54)
+				(at 66.04 45.72 180)
+				(length 5.08)
 				(name "PB8"
 					(effects
 						(font
@@ -915,8 +915,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 34.29 64.77 270)
-				(length 2.54)
+				(at 34.29 67.31 270)
+				(length 5.08)
 				(name "PA28"
 					(effects
 						(font
@@ -933,8 +933,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 31.75 64.77 270)
-				(length 2.54)
+				(at 31.75 67.31 270)
+				(length 5.08)
 				(name "PA27/PGMD15"
 					(effects
 						(font
@@ -951,8 +951,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -21.59 64.77 270)
-				(length 2.54)
+				(at -21.59 67.31 270)
+				(length 5.08)
 				(name "PA6/PGMNOE"
 					(effects
 						(font
@@ -969,8 +969,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -29.21 64.77 270)
-				(length 2.54)
+				(at -29.21 67.31 270)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -987,8 +987,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 16.51 64.77 270)
-				(length 2.54)
+				(at 16.51 67.31 270)
+				(length 5.08)
 				(name "PA21/PGMD9"
 					(effects
 						(font
@@ -1005,8 +1005,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 19.05 64.77 270)
-				(length 2.54)
+				(at 19.05 67.31 270)
+				(length 5.08)
 				(name "PA22/PGMD10"
 					(effects
 						(font
@@ -1023,8 +1023,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 21.59 64.77 270)
-				(length 2.54)
+				(at 21.59 67.31 270)
+				(length 5.08)
 				(name "PA23/PGMD11"
 					(effects
 						(font
@@ -1041,8 +1041,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -13.97 64.77 270)
-				(length 2.54)
+				(at -13.97 67.31 270)
+				(length 5.08)
 				(name "PA9/PGMM1"
 					(effects
 						(font
@@ -1059,8 +1059,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -11.43 64.77 270)
-				(length 2.54)
+				(at -11.43 67.31 270)
+				(length 5.08)
 				(name "PA10/PGMM2"
 					(effects
 						(font
@@ -1077,8 +1077,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 10.16 180)
-				(length 2.54)
+				(at 66.04 10.16 180)
+				(length 5.08)
 				(name "PB22"
 					(effects
 						(font
@@ -1095,8 +1095,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -8.89 64.77 270)
-				(length 2.54)
+				(at -8.89 67.31 270)
+				(length 5.08)
 				(name "PA11/PGMM3"
 					(effects
 						(font
@@ -1113,8 +1113,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 64.77 270)
-				(length 2.54)
+				(at -3.81 67.31 270)
+				(length 5.08)
 				(name "PA13/PGMD1"
 					(effects
 						(font
@@ -1131,8 +1131,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -1.27 64.77 270)
-				(length 2.54)
+				(at -1.27 67.31 270)
+				(length 5.08)
 				(name "PA14/PGMD2"
 					(effects
 						(font
@@ -1149,8 +1149,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 1.27 64.77 270)
-				(length 2.54)
+				(at 1.27 67.31 270)
+				(length 5.08)
 				(name "PA15/PGMD3"
 					(effects
 						(font
@@ -1167,8 +1167,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 3.81 64.77 270)
-				(length 2.54)
+				(at 3.81 67.31 270)
+				(length 5.08)
 				(name "PA16/PGMD4"
 					(effects
 						(font
@@ -1185,8 +1185,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 64.77 270)
-				(length 2.54)
+				(at 6.35 67.31 270)
+				(length 5.08)
 				(name "PA17/PGMD5"
 					(effects
 						(font
@@ -1203,8 +1203,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -50.8 180)
-				(length 2.54)
+				(at 66.04 -50.8 180)
+				(length 5.08)
 				(name "ADVREF"
 					(effects
 						(font
@@ -1221,8 +1221,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -12.7 180)
-				(length 2.54)
+				(at 66.04 -12.7 180)
+				(length 5.08)
 				(name "PB31/AD5"
 					(effects
 						(font
@@ -1239,8 +1239,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -10.16 180)
-				(length 2.54)
+				(at 66.04 -10.16 180)
+				(length 5.08)
 				(name "PB30"
 					(effects
 						(font
@@ -1257,8 +1257,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 7.62 180)
-				(length 2.54)
+				(at 66.04 7.62 180)
+				(length 5.08)
 				(name "PB23/AD4"
 					(effects
 						(font
@@ -1275,8 +1275,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 33.02 180)
-				(length 2.54)
+				(at 66.04 33.02 180)
+				(length 5.08)
 				(name "PB13/AD3"
 					(effects
 						(font
@@ -1293,8 +1293,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -24.13 64.77 270)
-				(length 2.54)
+				(at -24.13 67.31 270)
+				(length 5.08)
 				(name "PA5/AD2/PGMRDY"
 					(effects
 						(font
@@ -1311,8 +1311,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -26.67 64.77 270)
-				(length 2.54)
+				(at -26.67 67.31 270)
+				(length 5.08)
 				(name "PA4/AD1/PGMNCMD"
 					(effects
 						(font
@@ -1329,8 +1329,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -6.35 64.77 270)
-				(length 2.54)
+				(at -6.35 67.31 270)
+				(length 5.08)
 				(name "PA12/AD0/PGMD0"
 					(effects
 						(font
@@ -1347,8 +1347,8 @@
 				)
 			)
 			(pin power_in line
-				(at -45.72 -59.69 90)
-				(length 2.54)
+				(at -45.72 -62.23 90)
+				(length 5.08)
 				(name "VDDIN"
 					(effects
 						(font
@@ -1365,8 +1365,8 @@
 				)
 			)
 			(pin power_in line
-				(at -36.83 -59.69 90)
-				(length 2.54)
+				(at -36.83 -62.23 90)
+				(length 5.08)
 				(name "VDDOUT"
 					(effects
 						(font
@@ -1383,8 +1383,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 12.7 180)
-				(length 2.54)
+				(at 66.04 12.7 180)
+				(length 5.08)
 				(name "PB21"
 					(effects
 						(font
@@ -1401,8 +1401,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 15.24 180)
-				(length 2.54)
+				(at 66.04 15.24 180)
+				(length 5.08)
 				(name "PB20"
 					(effects
 						(font
@@ -1419,8 +1419,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 2.54 180)
-				(length 2.54)
+				(at 66.04 2.54 180)
+				(length 5.08)
 				(name "PB25"
 					(effects
 						(font
@@ -1437,8 +1437,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -36.83 64.77 270)
-				(length 2.54)
+				(at -36.83 67.31 270)
+				(length 5.08)
 				(name "PA0/PGMEN0"
 					(effects
 						(font
@@ -1455,8 +1455,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -2.54 180)
-				(length 2.54)
+				(at 66.04 -2.54 180)
+				(length 5.08)
 				(name "PB27/TMP2"
 					(effects
 						(font
@@ -1473,8 +1473,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -59.69 90)
-				(length 2.54)
+				(at 0 -62.23 90)
+				(length 5.08)
 				(name "VDDLCD"
 					(effects
 						(font
@@ -1491,8 +1491,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 0 180)
-				(length 2.54)
+				(at 66.04 0 180)
+				(length 5.08)
 				(name "PB26"
 					(effects
 						(font
@@ -1509,8 +1509,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 -5.08 180)
-				(length 2.54)
+				(at 66.04 -5.08 180)
+				(length 5.08)
 				(name "PB28/TMP3"
 					(effects
 						(font
@@ -1527,8 +1527,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 25.4 180)
-				(length 2.54)
+				(at 66.04 25.4 180)
+				(length 5.08)
 				(name "PB16/TMP1"
 					(effects
 						(font
@@ -1545,8 +1545,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -34.29 64.77 270)
-				(length 2.54)
+				(at -34.29 67.31 270)
+				(length 5.08)
 				(name "PA1/PGMEN1"
 					(effects
 						(font
@@ -1563,8 +1563,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 63.5 22.86 180)
-				(length 2.54)
+				(at 66.04 22.86 180)
+				(length 5.08)
 				(name "PB17"
 					(effects
 						(font
@@ -1581,8 +1581,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -19.05 64.77 270)
-				(length 2.54)
+				(at -19.05 67.31 270)
+				(length 5.08)
 				(name "PA7/PGMNVALID"
 					(effects
 						(font
@@ -1615,8 +1615,8 @@
 		)
 		(symbol "ATSAM4C32C_1_0"
 			(pin power_in line
-				(at -26.67 -59.69 90)
-				(length 2.54)
+				(at -26.67 -62.23 90)
+				(length 5.08)
 				(name "VDDCORE_1"
 					(effects
 						(font
@@ -1633,8 +1633,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 8.89 -59.69 90)
-				(length 2.54)
+				(at 8.89 -62.23 90)
+				(length 5.08)
 				(name "VDDIO_1"
 					(effects
 						(font
@@ -1651,8 +1651,8 @@
 				)
 			)
 			(pin power_in line
-				(at 36.83 -59.69 90)
-				(length 2.54)
+				(at 36.83 -62.23 90)
+				(length 5.08)
 				(name "GND_1"
 					(effects
 						(font
@@ -1669,8 +1669,8 @@
 				)
 			)
 			(pin power_in line
-				(at 39.37 -59.69 90)
-				(length 2.54)
+				(at 39.37 -62.23 90)
+				(length 5.08)
 				(name "GND_2"
 					(effects
 						(font
@@ -1687,8 +1687,8 @@
 				)
 			)
 			(pin power_in line
-				(at -24.13 -59.69 90)
-				(length 2.54)
+				(at -24.13 -62.23 90)
+				(length 5.08)
 				(name "VDDCORE_2"
 					(effects
 						(font
@@ -1705,8 +1705,8 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -59.69 90)
-				(length 2.54)
+				(at 11.43 -62.23 90)
+				(length 5.08)
 				(name "VDDIO_2"
 					(effects
 						(font
@@ -1723,8 +1723,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 40.64 0)
-				(length 2.54)
+				(at -66.04 40.64 0)
+				(length 5.08)
 				(name "PA30/XOUT"
 					(effects
 						(font
@@ -1741,8 +1741,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at -63.5 38.1 0)
-				(length 2.54)
+				(at -66.04 38.1 0)
+				(length 5.08)
 				(name "PA31/XIN"
 					(effects
 						(font
@@ -1759,8 +1759,8 @@
 				)
 			)
 			(pin power_in line
-				(at 41.91 -59.69 90)
-				(length 2.54)
+				(at 41.91 -62.23 90)
+				(length 5.08)
 				(name "GND_3"
 					(effects
 						(font
@@ -1777,8 +1777,8 @@
 				)
 			)
 			(pin power_in line
-				(at -21.59 -59.69 90)
-				(length 2.54)
+				(at -21.59 -62.23 90)
+				(length 5.08)
 				(name "VDDCORE_3"
 					(effects
 						(font
@@ -1795,8 +1795,8 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -59.69 90)
-				(length 2.54)
+				(at 13.97 -62.23 90)
+				(length 5.08)
 				(name "VDDIO_3"
 					(effects
 						(font
@@ -1813,8 +1813,8 @@
 				)
 			)
 			(pin power_in line
-				(at 44.45 -59.69 90)
-				(length 2.54)
+				(at 44.45 -62.23 90)
+				(length 5.08)
 				(name "GND_4"
 					(effects
 						(font
@@ -1831,8 +1831,8 @@
 				)
 			)
 			(pin power_in line
-				(at -19.05 -59.69 90)
-				(length 2.54)
+				(at -19.05 -62.23 90)
+				(length 5.08)
 				(name "VDDCORE_4"
 					(effects
 						(font
@@ -1849,8 +1849,8 @@
 				)
 			)
 			(pin power_in line
-				(at 16.51 -59.69 90)
-				(length 2.54)
+				(at 16.51 -62.23 90)
+				(length 5.08)
 				(name "VDDIO_4"
 					(effects
 						(font

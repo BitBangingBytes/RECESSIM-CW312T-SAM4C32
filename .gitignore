@@ -2,3 +2,4 @@
 *.bak
 fp-info-cache
 RECESSIM-CW312T-SAM4C32-backups/
+.DS_Store

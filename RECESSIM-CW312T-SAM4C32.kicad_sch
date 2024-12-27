@@ -10151,7 +10151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP-100_14x14mm_P0.5mm"
+		(property "Footprint" "RECESSIM-CW312T-SAM4C32:TQFP-100_14x14mm_P0.5mm_W0.28mm"
 			(at 82.296 147.066 0)
 			(effects
 				(font
